@@ -1,5 +1,5 @@
-### Hello.  My name is Kayden Ireland.
-## I am currently a Junior in college studying Computer Science
+## Hello.  My name is Kayden Ireland.
+# I am currently a Junior in college studying Computer Science
 
 - 🌱 I’m currently learning Web Apis & C#
 - 👯 I’m looking to collaborate on Minecraft Mods
@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaydenireland&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaydenireland&layout=donut-vertical&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaydenireland&show_icons=true&theme=cobalt)
