@@ -1,4 +1,9 @@
-## Hi there 👋
+### Hello.  My name is Kayden Ireland.
+## I am currently a Junior in college studying Computer Science
+
+- 🌱 I’m currently learning Web Apis & C#
+- 👯 I’m looking to collaborate on Minecraft Mods
+- 🤔 I’m looking for help with JavaFx
 
 <!--
 **kaydenireland/kaydenireland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
