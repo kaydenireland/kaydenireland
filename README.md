@@ -2,8 +2,10 @@
 ## I am currently a Junior in college studying Computer Science
 
 - 🌱 I’m currently learning Web Apis & C#
-- 👯 I’m looking to collaborate on Minecraft Mods
-- 🤔 I’m looking for help with JavaFx
+- 👯 I’m looking to collaborate on Minecraft and Terraria Mods
+- 🤔 I’m looking for help with Unity, JavaFx, and Maui UI
+- ⚡ Some projects I want to work on are a basic photoshop/image editor, solitaire/playing card games, and sports simulators.
+- 📫 How to reach me: See social media links on my profile
 <br/>
 
 
