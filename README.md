@@ -5,8 +5,14 @@
 - 👯 I’m looking to collaborate on Minecraft and Terraria Mods
 - 🤔 I’m looking for help with Unity, JavaFx, and Maui UI
 - ⚡ Some projects I want to work on are a basic photoshop/image editor, solitaire/playing card games, and sports simulators.
+- 💬 Topics that interest me include sports, geography, and astronomy
 - 📫 How to reach me: See social media links on my profile
-<br/>
+
+
+<img src="logos/social-icons/instagram.svg" alt="Instagram" height="50" width="50" hspace="5"/>
+<img src="logos/social-icons/reddit.svg" alt="Reddit" height="50" width="50" hspace="5"/>
+
+<br/><br/>
 
 
 <!--
@@ -27,10 +33,32 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaydenireland&layout=donut-vertical&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-## I would like to learn languages such as:
-- C#
-- Javascript
-- Lua
 
+## Languages I am familiar with
+<img src="logos/programming-languages/java.svg" alt="Java" height="50" width="50" hspace="5"/>
+<img src="logos/programming-languages/python.svg" alt="Python" height="50" width="50" hspace="5"/>
+<img src="logos/programming-languages/html.svg" alt="HTML" height="50" width="50" hspace="5"/>
+<img src="logos/programming-languages/css.svg" alt="CSS" height="50" width="50" hspace="5"/>
+
+
+<br/>
+
+## I would like to learn languages such as:
+<img src="logos/programming-languages/csharp.svg" alt="C#" height="50" width="50" hspace="5"/>
+<img src="logos/programming-languages/javascript.svg" alt="Javascript" height="50" width="50" hspace="5"/>
+<img src="logos/programming-languages/lua.png" alt="Lua" height="50" width="50" hspace="5"/>
+<img src="logos/programming-languages/swift.svg" alt="Swift" height="50" width="50" hspace="5"/>
+<img src="logos/programming-languages/cplusplus.svg" alt="C++" height="50" width="50" hspace="5"/>
+
+
+<br/><br/>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaydenireland&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/><br/>
+
+## Projects that I have worked on:
+<img src="logos/projects/kse.png" alt="Kallen's Sculk Expanse Minecraft Mod" height="128" width="128" hspace="5"/>
+<img src="logos/projects/konstructionlib.png" alt="KonstructionLib Minecraft Library" height="128" width="128" hspace="5"/>
+<img src="logos/projects/autumn-realm.png" alt="Autumn Realm Terraria Mod" height="128" width="128" hspace="5"/>
+
