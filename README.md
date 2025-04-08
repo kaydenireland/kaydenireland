@@ -9,8 +9,7 @@
 - 📫 How to reach me: See social media links on my profile
 
 
-<img src="logos/social-icons/instagram.svg" alt="Instagram" height="50" width="50" hspace="5"/>
-<img src="logos/social-icons/reddit.svg" alt="Reddit" height="50" width="50" hspace="5"/>
+<img src="logos/social-icons/instagram.svg" alt="Instagram" height="50" width="50" hspace="5"/> <img src="logos/social-icons/reddit.svg" alt="Reddit" height="50" width="50" hspace="5"/>
 
 <br/><br/>
 
@@ -35,20 +34,13 @@ Here are some ideas to get you started:
 <br/>
 
 ## Languages I am familiar with
-<img src="logos/programming-languages/java.svg" alt="Java" height="50" width="50" hspace="5"/>
-<img src="logos/programming-languages/python.svg" alt="Python" height="50" width="50" hspace="5"/>
-<img src="logos/programming-languages/html.svg" alt="HTML" height="50" width="50" hspace="5"/>
-<img src="logos/programming-languages/css.svg" alt="CSS" height="50" width="50" hspace="5"/>
+<img src="logos/programming-languages/java.svg" alt="Java" height="50" width="50" hspace="5"/> <img src="logos/programming-languages/python.svg" alt="Python" height="50" width="50" hspace="5"/> <img src="logos/programming-languages/html.svg" alt="HTML" height="50" width="50" hspace="5"/> <img src="logos/programming-languages/css.svg" alt="CSS" height="50" width="50" hspace="5"/>
 
 
 <br/>
 
 ## I would like to learn languages such as:
-<img src="logos/programming-languages/csharp.svg" alt="C#" height="50" width="50" hspace="5"/>
-<img src="logos/programming-languages/javascript.svg" alt="Javascript" height="50" width="50" hspace="5"/>
-<img src="logos/programming-languages/lua.png" alt="Lua" height="50" width="50" hspace="5"/>
-<img src="logos/programming-languages/swift.svg" alt="Swift" height="50" width="50" hspace="5"/>
-<img src="logos/programming-languages/cplusplus.svg" alt="C++" height="50" width="50" hspace="5"/>
+<img src="logos/programming-languages/csharp.svg" alt="C#" height="50" width="50" hspace="5"/> <img src="logos/programming-languages/javascript.svg" alt="Javascript" height="50" width="50" hspace="5"/> <img src="logos/programming-languages/lua.png" alt="Lua" height="50" width="50" hspace="5"/> <img src="logos/programming-languages/swift.svg" alt="Swift" height="50" width="50" hspace="5"/> <img src="logos/programming-languages/cplusplus.svg" alt="C++" height="50" width="50" hspace="5"/>
 
 
 <br/><br/>
@@ -58,7 +50,5 @@ Here are some ideas to get you started:
 <br/><br/>
 
 ## Projects that I have worked on:
-<img src="logos/projects/kse.png" alt="Kallen's Sculk Expanse Minecraft Mod" height="128" width="128" hspace="5"/>
-<img src="logos/projects/konstructionlib.png" alt="KonstructionLib Minecraft Library" height="128" width="128" hspace="5"/>
-<img src="logos/projects/autumn-realm.png" alt="Autumn Realm Terraria Mod" height="128" width="128" hspace="5"/>
+<img src="logos/projects/kse.png" alt="Kallen's Sculk Expanse Minecraft Mod" height="128" width="128" hspace="5"/> <img src="logos/projects/konstructionlib.png" alt="KonstructionLib Minecraft Library" height="128" width="128" hspace="5"/> <img src="logos/projects/autumn-realm.png" alt="Autumn Realm Terraria Mod" height="128" width="128" hspace="5"/>
 
