@@ -1,9 +1,9 @@
 # Hello.  My name is Kayden Ireland.
-## I am currently a Junior in college studying Computer Science
+## I am currently a Senior in college studying Computer Science
 
-- 🌱 I’m currently learning Web Apis & C#
+- 🌱 I’m currently learning Web Dev
 - 👯 I’m looking to collaborate on Minecraft and Terraria Mods
-- 🤔 I’m looking for help with Unity, JavaFx, and Maui UI
+- 🤔 I’m looking for help with Unity, collabrating on projects
 - ⚡ Some projects I want to work on are a basic photoshop/image editor, solitaire/playing card games, and sports simulators.
 - 💬 Topics that interest me include sports, geography, and astronomy
 - 📫 How to reach me: See social media links on my profile
