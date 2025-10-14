@@ -1,0 +1,9 @@
+name: Warm API Cache
+on:
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - run: curl -sL https://githubtools.vercel.app/toplangs/repo/kaydenireland?output=graph&chart=stacked > /dev/null
