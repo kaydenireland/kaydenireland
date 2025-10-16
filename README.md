@@ -1,44 +1,92 @@
-# Hello.  My name is Kayden Ireland.
-## I am currently a Senior in college studying Computer Science
+# 👋 Hello, I'm **Kayden Ireland**
+### 🎓 University of Pittsburgh | December 2025 | B.S. Computer Science
 
-- I’m currently learning Rust and language development
-- I’m looking to collaborate on almost anything to better my skills
-- Some projects I want to work on are basic games, sports simulators, a url shortener, and a JetPunk Quiz Clone.
-- Projects I am currently working on include a web-app text editor, GitHub Tools/Python Flask APIs, and creating a simple pygame.
-- Topics that interest me include sports, weather, geography, and astronomy
+---
 
+## 🧠 About Me
 
+- Looking for a career in Software Engineering
+- Currently working with language development
+- Open to contributing to open-source and team-based projects
+- Passioniate in a wide variety of subjects, like sports, astronomy, weather, and more
 
-<br/><br/>
+---
 
+## 🚀 Featured Projects
 
-<!--
-**kaydenireland/kaydenireland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[TrackMyPath](https://github.com/kaydenireland/TrackMyPath)** | Mobile/Web Location & Trip Tracking App
 
-Here are some ideas to get you started:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  
+- **[GitHub Stats](https://github.com/kaydenireland/GitHubStats)** | API & Stats Visualizer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
+- **[GameOfBasketball](https://github.com/kaydenireland/GameOfBasketball)** | Live Basketball Stat Keeper
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+## 🎮 Hobby Projects
+
+- **[Kallen's Sculk Expanse](https://github.com/kaydenireland/KallensSculkExpanse)** | Minecraft Neoforge Deep Dark Mod
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![NeoForge](https://img.shields.io/badge/NeoForge-EE3A24?style=for-the-badge&logo=forge&logoColor=white)
+
+- **[Autumn Realm](https://github.com/kaydenireland/AutumnRealm)** | Terraria Mod
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![tModLoader](https://img.shields.io/badge/tModLoader-7D5AA3?style=for-the-badge&logo=terraria&logoColor=white)
+  
+---
+
+## 📬 Contact
+- 📧 [kaydenireland@aol.com](mailto:kaydenireland@aol.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kayden-ireland/)  
+- 🤝 [Handshake](https://pitt.joinhandshake.com/profiles/5tawrb)  
+- 🧑‍💻 [GitHub](https://github.com/kaydenireland)
+
+---
+
+## 🧰 Tech & Tools
+
+### 💻 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### 🧱 Cloud & Infrastructure
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🗃️ Databases & Data Tools
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+### 🧩 Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 [![Top Langs](https://githubtools.vercel.app/toplangs/repo/kaydenireland?output=graph&chart=stacked)](https://github.com/kaydenireland/GitHub_Tools)
-<br/>
 
-## Languages I am familiar with
-<img src="logos/programming-languages/java.svg" alt="Java" height="50" width="50" hspace="5"/> <img src="logos/programming-languages/python.svg" alt="Python" height="50" width="50" hspace="5"/> <img src="logos/programming-languages/javascript.svg" alt="Javascript" height="50" width="50" hspace="5"/> <img src="logos/programming-languages/csharp.svg" alt="C#" height="50" width="50" hspace="5"/>
-
-
-<br/>
-
-## I am currently learning:
-<img src="logos/programming-languages/rust.svg" alt="Rust" height="50" width="50" hspace="5"/> <img src="logos/programming-languages/lua.png" alt="Lua" height="50" width="50" hspace="5"/>
-
-## I would like to learn languages such as:
- <img src="logos/programming-languages/swift.svg" alt="Swift" height="50" width="50" hspace="5"/> <img src="logos/programming-languages/cplusplus.svg" alt="C++" height="50" width="50" hspace="5"/>
+---
