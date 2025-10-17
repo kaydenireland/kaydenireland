@@ -88,5 +88,6 @@
 
 ## 📊 GitHub Stats
 [![Top Langs](https://githubtools.vercel.app/toplangs/repo/kaydenireland?output=graph&chart=stacked)](https://github.com/kaydenireland/GitHub_Tools)
+[![Top Langs](https://githubtools.vercel.app/toplangs/gist/kaydenireland?output=graph&chart=stacked)](https://github.com/kaydenireland/GitHub_Tools)
 
 ---
