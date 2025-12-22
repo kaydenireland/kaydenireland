@@ -36,11 +36,15 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
+- **[Ohl](https://github.com/kaydenireland/ohl)** | Interpreted Programming Language
+
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black)
+
 ---
 
 ## 🎮 Hobby Projects
 
-- **[Kallen's Sculk Expanse](https://github.com/kaydenireland/KallensSculkExpanse)** | Minecraft Neoforge Deep Dark Mod
+- **[kLib](https://github.com/kaydenireland/klib)** | Minecraft Library Mod
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NeoForge](https://img.shields.io/badge/NeoForge-EE3A24?style=for-the-badge&logo=forge&logoColor=white)
