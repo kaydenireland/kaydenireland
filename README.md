@@ -44,7 +44,7 @@
 
 ## Hobby Projects
 
-- **[kLib](https://github.com/kaydenireland/klib)** | Minecraft Library Mod
+- **[kLib](https://github.com/kaydenireland/kLib-Minecraft)** | Minecraft Library Mod
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NeoForge](https://img.shields.io/badge/NeoForge-EE3A24?style=for-the-badge&logo=forge&logoColor=white)
